@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('Generated STEP file for B1 entity'),'2;1');
-FILE_NAME('b1_entity_output.step','2025-09-04T08:38:36',('STEP Generator'),('Python Script'),'','','');
+FILE_NAME('b1_entity_output.step','2025-09-04T08:40:32',('STEP Generator'),('Python Script'),'','','');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN'));
 ENDSEC;
 
